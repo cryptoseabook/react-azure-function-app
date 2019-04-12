@@ -1,13 +1,13 @@
 {
   "main.css": "/react-azure-function-app/static/css/main.157cdcbb.chunk.css",
-  "main.js": "/react-azure-function-app/static/js/main.9261a7cc.chunk.js",
-  "main.js.map": "/react-azure-function-app/static/js/main.9261a7cc.chunk.js.map",
+  "main.js": "/react-azure-function-app/static/js/main.b3304b1f.chunk.js",
+  "main.js.map": "/react-azure-function-app/static/js/main.b3304b1f.chunk.js.map",
   "runtime~main.js": "/react-azure-function-app/static/js/runtime~main.b80e0af9.js",
   "runtime~main.js.map": "/react-azure-function-app/static/js/runtime~main.b80e0af9.js.map",
   "static/js/2.695279fd.chunk.js": "/react-azure-function-app/static/js/2.695279fd.chunk.js",
   "static/js/2.695279fd.chunk.js.map": "/react-azure-function-app/static/js/2.695279fd.chunk.js.map",
   "index.html": "/react-azure-function-app/index.html",
-  "precache-manifest.ac99a338aee371c62dbd9af8bc06106b.js": "/react-azure-function-app/precache-manifest.ac99a338aee371c62dbd9af8bc06106b.js",
+  "precache-manifest.f26042face11ee08dd5eebe13448cf82.js": "/react-azure-function-app/precache-manifest.f26042face11ee08dd5eebe13448cf82.js",
   "service-worker.js": "/react-azure-function-app/service-worker.js",
   "static/css/main.157cdcbb.chunk.css.map": "/react-azure-function-app/static/css/main.157cdcbb.chunk.css.map"
 }
